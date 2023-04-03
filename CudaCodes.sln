@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1ora", "1ora\1ora.vcxproj", "{77568176-E180-4271-9E48-15C1A63CAA85}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2ora", "2ora\2ora.vcxproj", "{3961AC83-8AEC-4221-81ED-B126A4DE5F09}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "3ora", "3ora\3ora.vcxproj", "{A7E95318-6F48-416A-888C-08B771624536}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77568176-E180-4271-9E48-15C1A63CAA85}.Debug|x64.ActiveCfg = Debug|x64
+		{77568176-E180-4271-9E48-15C1A63CAA85}.Debug|x64.Build.0 = Debug|x64
+		{77568176-E180-4271-9E48-15C1A63CAA85}.Release|x64.ActiveCfg = Release|x64
+		{77568176-E180-4271-9E48-15C1A63CAA85}.Release|x64.Build.0 = Release|x64
+		{3961AC83-8AEC-4221-81ED-B126A4DE5F09}.Debug|x64.ActiveCfg = Debug|x64
+		{3961AC83-8AEC-4221-81ED-B126A4DE5F09}.Debug|x64.Build.0 = Debug|x64
+		{3961AC83-8AEC-4221-81ED-B126A4DE5F09}.Release|x64.ActiveCfg = Release|x64
+		{3961AC83-8AEC-4221-81ED-B126A4DE5F09}.Release|x64.Build.0 = Release|x64
+		{A7E95318-6F48-416A-888C-08B771624536}.Debug|x64.ActiveCfg = Debug|x64
+		{A7E95318-6F48-416A-888C-08B771624536}.Debug|x64.Build.0 = Debug|x64
+		{A7E95318-6F48-416A-888C-08B771624536}.Release|x64.ActiveCfg = Release|x64
+		{A7E95318-6F48-416A-888C-08B771624536}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BF5C0F46-821D-41BA-AA16-24530B564440}
+	EndGlobalSection
+EndGlobal
